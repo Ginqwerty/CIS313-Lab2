@@ -1,0 +1,7 @@
+6
+insert 14
+delete 13
+delete 14
+insert 15
+inorder
+find 16
